@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#8888C0'
+    - '#304068'
+    - '#687898'
+    - '#5830A0'
+    - '#A8B0E0'
+  brandStrength: 0.21563736880346696
+  lightness: 0.6727397308418918
+  rhythmicContrast: 0.7600166603614541
+  saturation: 0.04748226394343069
+cta: {}
+layout_spectrum: 1
+name: pap
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.782894
